@@ -1,0 +1,9 @@
+.grid-container {
+  display: grid;
+  margin-top: -15px;
+  grid-template-columns: 330px 1500px;
+}
+
+.stats {
+  margin-left: 12.5px;
+}
